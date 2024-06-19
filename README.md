@@ -1,0 +1,1 @@
+Whether you're notifying users of successful actions, errors, or simply providing feedback, this customizable toast messages pop up discreetly at the bottom of the screen, ensuring a seamless user experience. With easy integration and a variety of styling options, you can effortlessly enhance user interaction on your web applications."
